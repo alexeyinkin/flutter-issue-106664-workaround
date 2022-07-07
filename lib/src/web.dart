@@ -1,4 +1,4 @@
-import 'dart:html';
+import 'dart:html'; // ignore: avoid_web_libraries_in_flutter
 
 import 'package:flutter/widgets.dart';
 import 'package:web_browser_detect/web_browser_detect.dart';

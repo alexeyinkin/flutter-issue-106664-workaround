@@ -3,9 +3,11 @@ that locks the focus in iframe with `TextField` if used in web.
 
 ## Usage
 
-Add this line to your `main.dart`:
+Add this to your `main.dart`:
 
 ```dart
+import 'package:flutter_issue_106664_workaround/flutter_issue_106664_workaround.dart';
+
 void main() {
   FlutterIssue106664Workaround.instance.apply();
   // Continue your code.

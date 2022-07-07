@@ -5,5 +5,5 @@ abstract class Abstract {
 
   void defocusOnBlur() {}
 
-  void defocusOnMuseOut() {}
+  void defocusOnMouseOut() {}
 }
