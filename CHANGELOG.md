@@ -1,3 +1,7 @@
+## 0.1.2
+
+* Document public API.
+
 ## 0.1.1
 
 * Fix linter issues.

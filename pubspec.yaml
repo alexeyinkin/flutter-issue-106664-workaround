@@ -1,6 +1,6 @@
 name: flutter_issue_106664_workaround
 description: Fixes the Flutter issue of automatically scrolling to a focused iframe when clicking outside of such iframe
-version: 0.1.1
+version: 0.1.2
 repository: https://github.com/alexeyinkin/flutter-issue-106664-workaround
 
 environment:
