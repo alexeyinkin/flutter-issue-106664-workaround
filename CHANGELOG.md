@@ -1,3 +1,7 @@
+## 0.1.3
+
+* Re-licensed under MIT No Attribution.
+
 ## 0.1.2
 
 * Document public API.
